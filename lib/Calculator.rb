@@ -14,9 +14,5 @@ class Calculator
   def subtract (val1,val2)
     add(val1,-val2)
   end
-  
-#  def add(val1,val2,val3)
-#    val1 + val2 + val3
-#  end
-  
+    
 end
